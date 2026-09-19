@@ -1,7 +1,6 @@
 const { GoogleGenAI, Type } = require("@google/genai");
 const { z } = require("zod");
 const { zodToJsonSchema } = require("zod-to-json-schema");
-const puppeteer = require("puppeteer");
 
 const ai = new GoogleGenAI({
   apiKey: process.env.GOOGLE_GENAI_API_KEY,
@@ -294,7 +293,7 @@ Example:
 
   const rawText = response.text;
 
-  console.log("AI RESPONSE LENGTH:", rawText.length);
+  // console.log("AI RESPONSE LENGTH:", rawText.length);
 
   try {
     const parsedResponse = JSON.parse(rawText);
@@ -314,6 +313,7 @@ Example:
 }
 
 async function generatePdfFromHtml(htmlContent) {
+  const { default: puppeteer } = await import("puppeteer");
   const browser = await puppeteer.launch();
   const page = await browser.newPage();
   await page.setContent(htmlContent, { waitUntil: "networkidle0" });
