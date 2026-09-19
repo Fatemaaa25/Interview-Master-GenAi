@@ -248,9 +248,9 @@ ATS-Friendly Resume (PDF)
 * Resume Upload
   <img width="1711" height="1211" alt="image" src="https://github.com/user-attachments/assets/d06a039b-07d5-4d12-b7a4-9bc7485f6057" />
 * Interview Report
-  <img width="1638" height="1306" alt="image" src="https://github.com/user-attachments/assets/95cee1e2-26cd-416b-8b17-202794a8dcc2" />
+  <img width="2485" height="1154" alt="image" src="https://github.com/user-attachments/assets/a1bfb8b3-d767-4832-b1b8-3059139e4989" />
 * Preparation Roadmap
-* <img width="804" height="993" alt="image" src="https://github.com/user-attachments/assets/c3619268-986c-4c49-b441-f9be235e3bce" />
+* <img width="2128" height="1244" alt="image" src="https://github.com/user-attachments/assets/b7efbbe4-34a2-49a2-a768-1377fa82d27f" />
 * Generated Resume
   <img width="478" height="1040" alt="image" src="https://github.com/user-attachments/assets/302185b7-3764-4ac6-9ddd-b5fef67b25e6" />
 
