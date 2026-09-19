@@ -252,7 +252,7 @@ ATS-Friendly Resume (PDF)
 * Preparation Roadmap
 * <img width="2128" height="1244" alt="image" src="https://github.com/user-attachments/assets/b7efbbe4-34a2-49a2-a768-1377fa82d27f" />
 * Generated Resume
-  <img width="478" height="1040" alt="image" src="https://github.com/user-attachments/assets/302185b7-3764-4ac6-9ddd-b5fef67b25e6" />
+* <img width="478" height="1040" alt="image" src="https://github.com/user-attachments/assets/302185b7-3764-4ac6-9ddd-b5fef67b25e6" />
 
 
 ---
